@@ -1,0 +1,46 @@
+/*导航栏背景样式*/
+QWidget#bg_title{background-color:#34495e;border: 1px solid gray;}
+
+/*主界面样式*/
+QLabel{color:white;}
+
+/*主界面按钮样式*/
+QPushButton[btn = "main"]{font-family: "微软雅黑";font-size: 18px;min-height: 28;min-width: 100;border-radius:3;color:white;background-color:#398072;}
+QPushButton[btn = "main"]:pressed{font-family: "微软雅黑";font-size: 18px;min-height: 28;min-width: 100;border-radius:3;color:white;background-color:#1abc9c;}
+
+/*左侧导航样式*/
+QTreeWidget#treeWidget{background-color:rgba(52,73,94,220);color:white;font-size: 18px;}
+
+/*搜索框样式*/
+QLineEdit{border-radius:6;border: 1px solid #398072;min-height: 28px;}
+
+QCheckBox{color: #34495e;}
+
+/*表格样式*/
+QTableWidget#tableWidget{border:1px solid gray;}
+
+/*表格头样式*/
+QHeaderView::section {	
+	color: black;
+	font-size: 16px;
+    padding-top: 10px;
+    font-weight:bold;
+    text-align:center;
+    background-color:white;
+	height:40px;
+    color:#909399;
+	border:1px solid rgb(235, 238, 245);
+    border-top:none;
+	border-left:none;
+    border-right:none;
+}
+
+/*表格条目样式*/
+QTableView::item
+{	
+	font:14px "微软雅黑";
+	color:#677483;
+	border:none;
+}
+
+QLabel#lb_cnt{color:red}

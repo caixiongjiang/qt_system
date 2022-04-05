@@ -1,0 +1,13 @@
+release/commosql.o
+release/dlg_addcommo.o
+release/main.o
+release/mainwindow.o
+release/page_login.o
+release/signup.o
+release/qrc_images.o
+release/qrc_res.o
+release/moc_commosql.o
+release/moc_dlg_addcommo.o
+release/moc_mainwindow.o
+release/moc_page_login.o
+release/moc_signup.o

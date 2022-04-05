@@ -1,0 +1,13 @@
+debug/commosql.o
+debug/dlg_addcommo.o
+debug/main.o
+debug/mainwindow.o
+debug/page_login.o
+debug/signup.o
+debug/qrc_images.o
+debug/qrc_res.o
+debug/moc_commosql.o
+debug/moc_dlg_addcommo.o
+debug/moc_mainwindow.o
+debug/moc_page_login.o
+debug/moc_signup.o
