@@ -19,7 +19,7 @@
 * 最后一步，将之前进入的bin文件夹下的三个文件以及之前的数据库文件拖入exe文件夹下就打包完成了
     
     需要的文件：
-    * libgcc_s_seh-1.dll
+    * libgcc_s_dw2-1.dll
     * libstdc++-6.dll
     * libwinpthread-1.dll
     * data.db
