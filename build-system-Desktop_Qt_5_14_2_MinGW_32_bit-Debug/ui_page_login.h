@@ -152,7 +152,7 @@ public:
 #if QT_CONFIG(tooltip)
         Page_login->setToolTip(QCoreApplication::translate("Page_login", "\350\277\231\346\230\257\347\231\273\345\275\225\347\252\227\345\217\243", nullptr));
 #endif // QT_CONFIG(tooltip)
-        label_3->setText(QCoreApplication::translate("Page_login", "\345\215\227\345\272\267\345\256\266\345\205\267\347\256\241\347\220\206\347\263\273\347\273\237", nullptr));
+        label_3->setText(QCoreApplication::translate("Page_login", "\345\215\227\345\272\267\345\256\266\345\205\267\346\231\272\350\203\275\345\267\245\345\216\202\347\211\251\350\201\224\347\275\221\345\272\224\347\224\250\345\271\263\345\217\260", nullptr));
         userpwd->setPlaceholderText(QCoreApplication::translate("Page_login", "\350\257\267\350\276\223\345\205\245\345\257\206\347\240\201\357\274\210\346\234\200\351\225\277\344\270\27216\344\275\215\357\274\211", nullptr));
         lb1->setText(QCoreApplication::translate("Page_login", "\347\224\250\346\210\267\345\220\215", nullptr));
         username->setPlaceholderText(QCoreApplication::translate("Page_login", "\350\257\267\350\276\223\345\205\245\347\224\250\346\210\267\345\220\215\357\274\210\346\234\200\351\225\277\344\270\2728\344\275\215\357\274\211", nullptr));

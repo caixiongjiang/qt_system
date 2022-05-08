@@ -278,7 +278,7 @@ public:
 #if QT_CONFIG(tooltip)
         MainWindow->setToolTip(QCoreApplication::translate("MainWindow", "\350\277\231\346\230\257\345\256\266\345\205\267\347\256\241\347\220\206\347\263\273\347\273\237", nullptr));
 #endif // QT_CONFIG(tooltip)
-        label->setText(QCoreApplication::translate("MainWindow", "\345\215\227\345\272\267\345\256\266\345\205\267\347\256\241\347\220\206\347\263\273\347\273\237", nullptr));
+        label->setText(QCoreApplication::translate("MainWindow", "\345\215\227\345\272\267\345\256\266\345\205\267\346\231\272\350\203\275\345\267\245\345\216\202\347\211\251\350\201\224\347\275\221\345\272\224\347\224\250\345\271\263\345\217\260", nullptr));
         lb_user->setText(QString());
         btn_exit->setText(QCoreApplication::translate("MainWindow", "\351\200\200\345\207\272", nullptr));
         btn_exit->setProperty("btn", QVariant(QCoreApplication::translate("MainWindow", "main", nullptr)));

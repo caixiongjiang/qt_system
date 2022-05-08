@@ -36,7 +36,7 @@
       </font>
      </property>
      <property name="text">
-      <string>南康家具管理系统</string>
+      <string>南康家具智能工厂物联网应用平台</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>

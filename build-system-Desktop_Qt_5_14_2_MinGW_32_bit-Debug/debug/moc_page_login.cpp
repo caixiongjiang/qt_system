@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../../system/page_login.h"
+#include "../../jiayusystem/system/page_login.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)

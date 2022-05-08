@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../../system/signup.h"
+#include "../../jiayusystem/system/signup.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)

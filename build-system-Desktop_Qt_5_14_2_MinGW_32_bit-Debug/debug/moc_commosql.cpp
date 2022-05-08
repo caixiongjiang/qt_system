@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../../system/commosql.h"
+#include "../../jiayusystem/system/commosql.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)
